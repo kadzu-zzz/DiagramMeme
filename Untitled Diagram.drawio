@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
   <diagram name="Page-1" id="z4s4Cf7BJwjRQn0041Nl">
-    <mxGraphModel dx="2045" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-3" value="Transformer &amp;lt;OpenSeeFace, Live2D&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-6" target="NKLGpXEVz7HAmqUGR4_c-3">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-14" value="Live2D Cubisim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-16" target="NKLGpXEVz7HAmqUGR4_c-29">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-16" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-19" target="NKLGpXEVz7HAmqUGR4_c-14">
           <mxGeometry relative="1" as="geometry" />
@@ -149,11 +149,167 @@
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="260" as="targetPoint" />
+            <mxPoint x="560" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NKLGpXEVz7HAmqUGR4_c-48" value="Keybind Live2D Parameter Toggle/Cycle/Function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-52" target="NKLGpXEVz7HAmqUGR4_c-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-52" value="&lt;div&gt;VirtualStage&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-53" target="NKLGpXEVz7HAmqUGR4_c-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-53" value="Embedded Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-54" value="&lt;div&gt;Net Output OpenSeeFace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="1150" as="sourcePoint" />
+            <mxPoint x="755" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-84" value="&lt;div&gt;Net Input Live2D Parameters&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-88" target="NKLGpXEVz7HAmqUGR4_c-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-88" value="Embedded Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-90" value="External Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-92" value="&lt;div&gt;Net Input OpenSeeFace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-93" value="Transformer &amp;lt;OpenSeeFace, Live2D&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NKLGpXEVz7HAmqUGR4_c-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="1150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-102" value="&lt;div&gt;Net Output Texture Stream&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="1130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-105" value="Full Use Cases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="598" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-112" value="External Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="850" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-123" value="&lt;div&gt;Net Input OpenSeeFace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="648" as="sourcePoint" />
+            <mxPoint x="555" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-128" value="Embedded Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="628" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-130" value="Transformer &amp;lt;OpenSeeFace, Live2D&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="628" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-131" target="NKLGpXEVz7HAmqUGR4_c-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-131" value="Live2D Cubisim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="628" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-132" target="NKLGpXEVz7HAmqUGR4_c-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-132" target="NKLGpXEVz7HAmqUGR4_c-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-132" value="Stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="628" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-133" target="NKLGpXEVz7HAmqUGR4_c-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-133" value="Spout 2" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="660" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-134" value="OBS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="580" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-139" value="External Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-140" value="&lt;div&gt;Net Input OpenSeeFace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="980" as="sourcePoint" />
+            <mxPoint x="552.5" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NKLGpXEVz7HAmqUGR4_c-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-144" value="Embedded Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-146" value="External Open See Face" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-147" value="&lt;div&gt;Net Input OpenSeeFace&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="1060" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-148" value="&lt;div&gt;Net Output Live2D Parameters&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="NKLGpXEVz7HAmqUGR4_c-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="980" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-154" value="Transformer &amp;lt;OpenSeeFace, Live2D&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-155" value="&lt;div&gt;VirtualStage&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-156" value="&lt;div&gt;Net Input Live2D Parameters&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-159" value="Live2D Cubisim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="1130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-160" value="&lt;div&gt;VirtualStage&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKLGpXEVz7HAmqUGR4_c-161" value="Keybind Live2D Parameter Toggle/Cycle/Function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
